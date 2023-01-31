@@ -1,0 +1,37 @@
+{
+  "background_color": "#ffffff",
+  "description": "foodorder.uno",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "package_f1693a760eff6dff270c63af5a5b73aa07000306/Assets/AppIcon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "package_f1693a760eff6dff270c63af5a5b73aa07000306/Assets/AppIcon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "package_f1693a760eff6dff270c63af5a5b73aa07000306/Assets/AppIcon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "package_f1693a760eff6dff270c63af5a5b73aa07000306/Assets/AppIcon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "package_f1693a760eff6dff270c63af5a5b73aa07000306/Assets/AppIcon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "foodorder.uno",
+  "short_name": "foodorder.uno",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
