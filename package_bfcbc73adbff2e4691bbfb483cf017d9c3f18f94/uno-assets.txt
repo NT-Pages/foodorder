@@ -1,0 +1,9 @@
+obj/uno-bootstrap.d.ts
+obj/uno-bootstrap.js
+manifest.json
+Assets/SplashScreen.png
+SharedAssets.md
+Assets/country.png
+Uno.Fonts.Fluent/Fonts/uno-fluentui-assets.ttf
+manifest.json
+foodorder.uno.Wasm.exe
