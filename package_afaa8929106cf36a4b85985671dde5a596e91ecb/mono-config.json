@@ -1,0 +1,374 @@
+{
+  "assemblyRootFolder": "managed",
+  "debugLevel": 0,
+  "assets": [
+    {
+      "name": "Uno.Wasm.TimezoneData.dll",
+      "behavior": "assembly",
+      "url": "Uno.Wasm.TimezoneData.dll"
+    },
+    {
+      "name": "netstandard.dll",
+      "behavior": "assembly",
+      "url": "netstandard.dll"
+    },
+    {
+      "name": "System.Private.CoreLib.dll",
+      "behavior": "assembly",
+      "url": "System.Private.CoreLib.dll"
+    },
+    {
+      "name": "System.Private.Uri.dll",
+      "behavior": "assembly",
+      "url": "System.Private.Uri.dll"
+    },
+    {
+      "name": "System.ComponentModel.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.ComponentModel.Primitives.dll"
+    },
+    {
+      "name": "System.ComponentModel.dll",
+      "behavior": "assembly",
+      "url": "System.ComponentModel.dll"
+    },
+    {
+      "name": "System.Collections.NonGeneric.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.NonGeneric.dll"
+    },
+    {
+      "name": "System.ObjectModel.dll",
+      "behavior": "assembly",
+      "url": "System.ObjectModel.dll"
+    },
+    {
+      "name": "System.Collections.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.dll"
+    },
+    {
+      "name": "System.Collections.Specialized.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.Specialized.dll"
+    },
+    {
+      "name": "System.Security.Cryptography.dll",
+      "behavior": "assembly",
+      "url": "System.Security.Cryptography.dll"
+    },
+    {
+      "name": "System.Memory.dll",
+      "behavior": "assembly",
+      "url": "System.Memory.dll"
+    },
+    {
+      "name": "System.Runtime.Numerics.dll",
+      "behavior": "assembly",
+      "url": "System.Runtime.Numerics.dll"
+    },
+    {
+      "name": "System.Collections.Concurrent.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.Concurrent.dll"
+    },
+    {
+      "name": "System.Net.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Primitives.dll"
+    },
+    {
+      "name": "System.ComponentModel.TypeConverter.dll",
+      "behavior": "assembly",
+      "url": "System.ComponentModel.TypeConverter.dll"
+    },
+    {
+      "name": "System.Text.RegularExpressions.dll",
+      "behavior": "assembly",
+      "url": "System.Text.RegularExpressions.dll"
+    },
+    {
+      "name": "System.Net.Security.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Security.dll"
+    },
+    {
+      "name": "System.Drawing.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.Drawing.Primitives.dll"
+    },
+    {
+      "name": "System.Linq.dll",
+      "behavior": "assembly",
+      "url": "System.Linq.dll"
+    },
+    {
+      "name": "System.Runtime.Serialization.Formatters.dll",
+      "behavior": "assembly",
+      "url": "System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "name": "System.Private.Xml.Linq.dll",
+      "behavior": "assembly",
+      "url": "System.Private.Xml.Linq.dll"
+    },
+    {
+      "name": "System.Private.Xml.dll",
+      "behavior": "assembly",
+      "url": "System.Private.Xml.dll"
+    },
+    {
+      "name": "System.Diagnostics.TraceSource.dll",
+      "behavior": "assembly",
+      "url": "System.Diagnostics.TraceSource.dll"
+    },
+    {
+      "name": "System.Net.Http.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Http.dll"
+    },
+    {
+      "name": "System.Runtime.InteropServices.JavaScript.dll",
+      "behavior": "assembly",
+      "url": "System.Runtime.InteropServices.JavaScript.dll"
+    },
+    {
+      "name": "System.Linq.Expressions.dll",
+      "behavior": "assembly",
+      "url": "System.Linq.Expressions.dll"
+    },
+    {
+      "name": "System.Console.dll",
+      "behavior": "assembly",
+      "url": "System.Console.dll"
+    },
+    {
+      "name": "System.Data.Common.dll",
+      "behavior": "assembly",
+      "url": "System.Data.Common.dll"
+    },
+    {
+      "name": "System.Collections.Immutable.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.Immutable.dll"
+    },
+    {
+      "name": "System.Linq.Queryable.dll",
+      "behavior": "assembly",
+      "url": "System.Linq.Queryable.dll"
+    },
+    {
+      "name": "System.Net.NameResolution.dll",
+      "behavior": "assembly",
+      "url": "System.Net.NameResolution.dll"
+    },
+    {
+      "name": "System.Net.Sockets.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Sockets.dll"
+    },
+    {
+      "name": "System.Runtime.Serialization.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "name": "System.Web.HttpUtility.dll",
+      "behavior": "assembly",
+      "url": "System.Web.HttpUtility.dll"
+    },
+    {
+      "name": "foodorder.uno.Wasm.dll",
+      "behavior": "assembly",
+      "url": "foodorder.uno.Wasm.dll"
+    },
+    {
+      "name": "Uno.UI.Runtime.WebAssembly.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Runtime.WebAssembly.dll"
+    },
+    {
+      "name": "Uno.UI.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.dll"
+    },
+    {
+      "name": "Uno.Foundation.dll",
+      "behavior": "assembly",
+      "url": "Uno.Foundation.dll"
+    },
+    {
+      "name": "Uno.Foundation.Logging.dll",
+      "behavior": "assembly",
+      "url": "Uno.Foundation.Logging.dll"
+    },
+    {
+      "name": "Uno.Foundation.Runtime.WebAssembly.dll",
+      "behavior": "assembly",
+      "url": "Uno.Foundation.Runtime.WebAssembly.dll"
+    },
+    {
+      "name": "Uno.Diagnostics.Eventing.dll",
+      "behavior": "assembly",
+      "url": "Uno.Diagnostics.Eventing.dll"
+    },
+    {
+      "name": "Uno.Xaml.dll",
+      "behavior": "assembly",
+      "url": "Uno.Xaml.dll"
+    },
+    {
+      "name": "Uno.dll",
+      "behavior": "assembly",
+      "url": "Uno.dll"
+    },
+    {
+      "name": "Uno.UI.Dispatching.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Dispatching.dll"
+    },
+    {
+      "name": "System.Text.Json.dll",
+      "behavior": "assembly",
+      "url": "System.Text.Json.dll"
+    },
+    {
+      "name": "System.Text.Encodings.Web.dll",
+      "behavior": "assembly",
+      "url": "System.Text.Encodings.Web.dll"
+    },
+    {
+      "name": "Uno.UI.Composition.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Composition.dll"
+    },
+    {
+      "name": "NetMQ.dll",
+      "behavior": "assembly",
+      "url": "NetMQ.dll"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "cs/System.Private.ServiceModel.resources.dll",
+      "culture": "cs"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "de/System.Private.ServiceModel.resources.dll",
+      "culture": "de"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "es/System.Private.ServiceModel.resources.dll",
+      "culture": "es"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "fr/System.Private.ServiceModel.resources.dll",
+      "culture": "fr"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "it/System.Private.ServiceModel.resources.dll",
+      "culture": "it"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "ja/System.Private.ServiceModel.resources.dll",
+      "culture": "ja"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "ko/System.Private.ServiceModel.resources.dll",
+      "culture": "ko"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "pl/System.Private.ServiceModel.resources.dll",
+      "culture": "pl"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "pt-BR/System.Private.ServiceModel.resources.dll",
+      "culture": "pt-BR"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "ru/System.Private.ServiceModel.resources.dll",
+      "culture": "ru"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "tr/System.Private.ServiceModel.resources.dll",
+      "culture": "tr"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "zh-Hans/System.Private.ServiceModel.resources.dll",
+      "culture": "zh-Hans"
+    },
+    {
+      "name": "System.Private.ServiceModel.resources.dll",
+      "behavior": "resource",
+      "url": "zh-Hant/System.Private.ServiceModel.resources.dll",
+      "culture": "zh-Hant"
+    },
+    {
+      "name": "AsyncIO.dll",
+      "behavior": "assembly",
+      "url": "AsyncIO.dll"
+    },
+    {
+      "name": "NaCl.dll",
+      "behavior": "assembly",
+      "url": "NaCl.dll"
+    },
+    {
+      "name": "CommunityToolkit.Mvvm.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Mvvm.dll"
+    },
+    {
+      "name": "Uno.UI.FluentTheme.v2.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.FluentTheme.v2.dll"
+    },
+    {
+      "name": "Uno.UI.Lottie.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Lottie.dll"
+    },
+    {
+      "name": "Uno.UI.Toolkit.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Toolkit.dll"
+    },
+    {
+      "name": "Newtonsoft.Json.dll",
+      "behavior": "assembly",
+      "url": "Newtonsoft.Json.dll"
+    },
+    {
+      "name": "dotnet.wasm",
+      "behavior": "dotnetwasm",
+      "url": "dotnet.wasm"
+    },
+    {
+      "name": "icudt.dat",
+      "behavior": "icu",
+      "url": "icudt.dat"
+    }
+  ]
+}
